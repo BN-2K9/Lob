@@ -1,0 +1,16 @@
+Plugin:
+  Prefix: "&a&lLOB &8>>"
+Features:
+  # All The Features With In The Plugin.
+  Ambient:
+    # Wil Require An Restart!
+    Enabled: true
+    # The Particle That Will Be Spawned.
+    Particle: "END_ROD"
+    # The Amount Of Particles That Will Be Spawned.
+    ParticleAmount: 150
+    # The Radius In Witch The Particles Are Being Spawned.
+    BoxSize: 20
+    # The Interval (Seconds) That The Particles Are Being Spawned.
+    SpawnRate: 1
+
